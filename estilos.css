@@ -16,3 +16,8 @@
     padding: 30px 15px;
     box-sizing: border-box;
 }
+
+button{
+    background: turquoise;
+    color: white;
+}
